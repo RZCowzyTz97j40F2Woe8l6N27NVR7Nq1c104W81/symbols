@@ -1120,5 +1120,126 @@
     "url": "https://cdn.candies.monster/symbols/com.zeptolab.ctr.tryandbuy.svyaznoy/2.2.1.zip",
     "bytes": 966791,
     "sha256": "e6d4bd6459077cd2911902869c18bc9eef9fe68bfae92f813a673e825537d5a2"
+  },
+  {
+    "platform": "android",
+    "package": "com.zeptolab.ctrexperiments.google.paid",
+    "version": "1.0",
+    "label": "SYMTAB",
+    "arch": "armeabi",
+    "path": "com.zeptolab.ctrexperiments.google.paid/1.0.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.ctrexperiments.google.paid/1.0.zip",
+    "bytes": 508320,
+    "sha256": "4972cd34e98c3360dc83699de69aa736e2d7c24d68a73d29499934c383db11e7"
+  },
+  {
+    "platform": "android",
+    "package": "com.zeptolab.timetravel.paid.amazon.kids",
+    "version": "1.18.0",
+    "label": "exports",
+    "arch": "arm64-v8a, armeabi-v7a, x86, x86_64",
+    "path": "com.zeptolab.timetravel.paid.amazon.kids/1.18.0.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.timetravel.paid.amazon.kids/1.18.0.zip",
+    "bytes": 9360055,
+    "sha256": "410c362cb01448db6d0faf6e8a917ee164f9b5ed247721abd7fe40ea72187941"
+  },
+  {
+    "platform": "android",
+    "package": "com.zeptolab.monsters.free.china.gamebase",
+    "version": "1.3.2",
+    "label": "exports",
+    "arch": "armeabi, x86",
+    "path": "com.zeptolab.monsters.free.china.gamebase/1.3.2.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.monsters.free.china.gamebase/1.3.2.zip",
+    "bytes": 1343738,
+    "sha256": "d4a78e6b84a111f5bb89ec424ddca74b7868594b005adaa29d51c820fddd947a"
+  },
+  {
+    "platform": "android",
+    "package": "com.yodo1.ctr2.YODO1_01",
+    "version": "2.3.9.3",
+    "label": "DWARF/SYMTAB",
+    "arch": "armeabi",
+    "path": "com.yodo1.ctr2.YODO1_01/2.3.9.3.zip",
+    "url": "https://cdn.candies.monster/symbols/com.yodo1.ctr2.YODO1_01/2.3.9.3.zip",
+    "bytes": 13957949,
+    "sha256": "0b0883e3e58a0b77d5d3fa643312cf36a5aca450c0a3e00f2ae9a742427e7ee5"
+  },
+  {
+    "platform": "android",
+    "package": "com.tcxx.cut.gsz",
+    "version": "1.1.1",
+    "label": "exports",
+    "arch": "arm64-v8a, armeabi-v7a",
+    "path": "com.tcxx.cut.gsz/1.1.1.zip",
+    "url": "https://cdn.candies.monster/symbols/com.tcxx.cut.gsz/1.1.1.zip",
+    "bytes": 4305213,
+    "sha256": "11ba41d950d2177d5092c546bd70ce2f8d4d50cab540fdcddfc98650784b0e2f"
+  },
+  {
+    "platform": "android",
+    "package": "com.zeptolab.ctrexperiments.google.paid",
+    "version": "2.3.2",
+    "label": "exports",
+    "arch": "armeabi, x86",
+    "path": "com.zeptolab.ctrexperiments.google.paid/china/2.3.2.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.ctrexperiments.google.paid/china/2.3.2.zip",
+    "bytes": 764529,
+    "sha256": "dad7af3a817f0a5effd6c5c7f1d8db9f9efb3a31acd44c1e84eab9ff2b170fa7"
+  },
+  {
+    "platform": "android",
+    "package": "com.zeptolab.monsters.ifree.sdk.huawei",
+    "version": "1.1.1",
+    "label": "exports",
+    "arch": "armeabi-v7a, x86",
+    "path": "com.zeptolab.monsters.ifree.sdk.huawei/1.1.1.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.monsters.ifree.sdk.huawei/1.1.1.zip",
+    "bytes": 1339119,
+    "sha256": "1f9916e2f6abd5e5010738d31cb7c09da11b75c3d958ac4e265793203a2f69a3"
+  },
+  {
+    "platform": "android",
+    "package": "com.zeptolab.ctrtt.subscr.tier",
+    "version": "1.14.1",
+    "label": "exports",
+    "arch": "arm64-v8a, armeabi-v7a, x86, x86_64",
+    "path": "com.zeptolab.ctrtt.subscr.tier/orange/1.14.1.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.ctrtt.subscr.tier/orange/1.14.1.zip",
+    "bytes": 9278202,
+    "sha256": "9923f12d5fbc1e65d179ec78e842f388d1d9ed9a853bcc17cb0800e0124a18a7"
+  },
+  {
+    "platform": "android",
+    "package": "com.zeptolab.ctrexperiments.google.paid",
+    "version": "2.3.1",
+    "label": "SYMTAB",
+    "arch": "armeabi",
+    "path": "com.zeptolab.ctrexperiments.google.paid/china/2.3.1.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.ctrexperiments.google.paid/china/2.3.1.zip",
+    "bytes": 500844,
+    "sha256": "e8a8e8dcb9f51e1d5fdca711192bb0bb61f28592f78993760a5db367d63ccffe"
+  },
+  {
+    "platform": "android",
+    "package": "com.zeptolab.monsters.free.amazon",
+    "version": "1.2.4",
+    "label": "exports",
+    "arch": "armeabi, x86",
+    "path": "com.zeptolab.monsters.free.amazon/1.2.4.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.monsters.free.amazon/1.2.4.zip",
+    "bytes": 1263404,
+    "sha256": "75ad5c2b28a600c8551f03defaaf9b4c2d47e77133510a3c6a9ceeef36280726"
+  },
+  {
+    "platform": "ios",
+    "package": "com.zeptolab.candyflick",
+    "version": "2.6",
+    "label": "Unity address maps",
+    "arch": "32/64-bit maps",
+    "path": "com.zeptolab.candyflick/2.6-addressmaps.zip",
+    "url": "https://cdn.candies.monster/symbols/com.zeptolab.candyflick/2.6-addressmaps.zip",
+    "bytes": 488736,
+    "sha256": "4ee62e82d8636a4b69dec63086d9454b46e9c42871cea3d36477fecc2b586474"
   }
 ]
